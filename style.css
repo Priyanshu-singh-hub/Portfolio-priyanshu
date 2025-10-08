@@ -10,6 +10,7 @@ header {
     flex-wrap: wrap;
     justify-content: space-around;
     row-gap: 8px;
+    flex-wrap: wrap;
 
 }
 
@@ -32,6 +33,7 @@ header {
     flex-wrap: wrap;
     font-weight: 700;
     color: #EF1D26;
+    flex-wrap: wrap;
 
 }
 
@@ -56,6 +58,7 @@ header button {
     cursor: pointer;
     border: none;
     border-radius: 6px;
+    flex-wrap: wrap;
 }
 
 #header2 {
@@ -96,17 +99,20 @@ header button {
     row-gap: 10px;
     align-items: flex-start;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #first1>h2 {
     font-size: 36px;
     font-weight: 700;
+    flex-wrap: wrap;
 }
 
 #first1>h1 {
     font-size: 50px;
     font-weight: 700;
     background: linear-gradient(#02020297, #ef1d279a);
+    flex-wrap: wrap;
 }
 
 #first2>img {
@@ -114,12 +120,12 @@ header button {
     border-radius: 50px;
     transform: rotate(10deg);
     flex-wrap: wrap;
-
 }
 
 #first2>img:hover {
     transform: rotate(0deg);
     border: 2px solid #EF1D26;
+    flex-wrap: wrap;
 }
 
 #download-cv {
@@ -132,6 +138,7 @@ header button {
     align-items: center;
     font-size: 18px;
     color: white;
+    flex-wrap: wrap;
 }
 
 #download-cv:hover {
@@ -159,6 +166,7 @@ header button {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #education {
@@ -183,6 +191,7 @@ header button {
     align-items: center;
     justify-content: center;
     background-color: #c7c3c332;
+    flex-wrap: wrap;
 }
 
 
@@ -200,6 +209,7 @@ header button {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .skill-container {
@@ -215,6 +225,7 @@ header button {
     height: 50px;
     width: 200px;
     background-color: #c7c3c332;
+    flex-wrap: wrap;
 }
 
 #frontend-skills,
@@ -247,6 +258,7 @@ header button {
     font-weight: 600;
     column-gap: 18px;
     width: 500px;
+    flex-wrap: wrap;
 }
 
 .contact1>img {
